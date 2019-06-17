@@ -1,0 +1,1 @@
+ Hands on project from The Odin Project to allow learner to apply what we have learned from DOM Manipulation section on pratical project. I was able to apply DOM Manipulation on simple by inserting new Div, changing color, creating new Element and so on. 
